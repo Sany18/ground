@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e668247.css",
+    "main.js": "/static/js/main.acaa3256.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/photo_2022-06-19_20-12-08.jpg": "/static/media/photo_2022-06-19_20-12-08.0e21f980ed28c0e86dd8.jpg",
+    "static/media/photo_2022-06-18_19-20-23.jpg": "/static/media/photo_2022-06-18_19-20-23.c74bd8c588798c0a6086.jpg",
+    "static/media/photo_2022-06-18_19-20-22.jpg": "/static/media/photo_2022-06-18_19-20-22.d9f979d9e9ca7a0f2864.jpg",
+    "static/media/photo_2022-06-18_19-20-20.jpg": "/static/media/photo_2022-06-18_19-20-20.5e22c53102e0404642fc.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/photo_2022-06-19_20-12-12.jpg": "/static/media/photo_2022-06-19_20-12-12.83617ea9f53b21eba492.jpg",
+    "static/media/photo_2022-06-18_19-20-18.jpg": "/static/media/photo_2022-06-18_19-20-18.f635f08c8c24d52e1469.jpg",
+    "static/media/photo_2022-06-19_20-12-02.jpg": "/static/media/photo_2022-06-19_20-12-02.09d4a1561fbd21334d52.jpg",
+    "static/media/photo_2022-06-18_19-20-26.jpg": "/static/media/photo_2022-06-18_19-20-26.61c4fca9a5ff35652a9f.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/photo_2022-06-18_19-20-30.jpg": "/static/media/photo_2022-06-18_19-20-30.23fc70fd75c4e2327546.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/photo_2022-06-19_20-12-10.jpg": "/static/media/photo_2022-06-19_20-12-10.5b5fbc18cb70478dc954.jpg",
+    "static/media/photo_2022-06-19_20-12-05.jpg": "/static/media/photo_2022-06-19_20-12-05.ca899126e091b190a91e.jpg",
+    "static/media/logo.png": "/static/media/logo.5b7bd03c80827e134e06.png",
+    "index.html": "/index.html",
+    "main.4e668247.css.map": "/static/css/main.4e668247.css.map",
+    "main.acaa3256.js.map": "/static/js/main.acaa3256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e668247.css",
+    "static/js/main.acaa3256.js"
+  ]
+}
