@@ -1,0 +1,65 @@
+@import 'src/assets/scss/var';
+
+main {
+  flex: 1;
+  display: flex;
+}
+
+.aside {
+  width: 300px;
+  border-right: 1px solid $black;
+  overflow: hidden;
+  background-color: $white;
+  @include transition;
+
+  .icon-button {
+    display: none;
+  }
+
+  @media screen and (max-width: 768px) {
+    position: fixed;
+    min-height: calc(100vh - 100px);
+    width: 50px;
+    @include transition;
+
+    &.true {
+      width: 300px;
+      @include transition;
+    }
+
+    .icon-button {
+      display: flex;
+    }
+  }
+}
+
+.content {
+  flex: 1;
+  overflow: hidden;
+
+  @media screen and (max-width: 768px) {
+    padding-left: 0.5rem !important;
+  }
+
+  .site-info {
+    border-bottom: 1px solid $black;
+  }
+
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    
+    .item {
+      width: 250px;
+      background-color: $black01;
+      cursor: pointer;
+      
+      img {
+        height: 180px;
+        width: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+}

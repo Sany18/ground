@@ -1,0 +1,17 @@
+@import 'src/assets/scss/var';
+
+header {
+  height: 3rem;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 30px;
+  position: sticky;
+  top: 0;
+  background: $black03;
+
+  #logo {
+    width: 36px;
+  }
+}

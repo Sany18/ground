@@ -1,0 +1,25 @@
+@import 'src/assets/scss/var';
+
+.main-image {
+  width: 100%;
+  max-height: 450px;
+  object-fit: contain;
+  background-color: $black01;
+}
+
+.carousel-image {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  cursor: pointer;
+
+  &.active {
+    border: 2px solid $orange;
+  }
+}
+
+.buy-element {
+  background: $black01;
+  padding: 1rem;
+  border-radius: 4px;
+}

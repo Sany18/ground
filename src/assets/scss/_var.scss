@@ -1,0 +1,15 @@
+$white: white;
+$white08: rgb(255,255,255,.8);
+$white05: rgb(255,255,255,.5);
+$white03: rgb(255,255,255,.3);
+$white01: rgb(255,255,255,.1);
+$black: black;
+$black08: rgb(0,0,0,.8);
+$black05: rgb(0,0,0,.5);
+$black03: rgb(0,0,0,.3);
+$black01: rgb(0,0,0,.1);
+$orange: orange;
+
+@mixin transition {
+  transition: .1s;
+}
