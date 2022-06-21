@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eb47864b.css",
-    "main.js": "/static/js/main.333f67af.js",
+    "main.js": "/static/js/main.c1c6c1c7.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/photo_2022-06-19_20-12-08.jpg": "/static/media/photo_2022-06-19_20-12-08.0e21f980ed28c0e86dd8.jpg",
     "static/media/photo_2022-06-18_19-20-23.jpg": "/static/media/photo_2022-06-18_19-20-23.c74bd8c588798c0a6086.jpg",
@@ -21,10 +21,10 @@
     "static/media/logo.png": "/static/media/logo.5b7bd03c80827e134e06.png",
     "index.html": "/index.html",
     "main.eb47864b.css.map": "/static/css/main.eb47864b.css.map",
-    "main.333f67af.js.map": "/static/js/main.333f67af.js.map"
+    "main.c1c6c1c7.js.map": "/static/js/main.c1c6c1c7.js.map"
   },
   "entrypoints": [
     "static/css/main.eb47864b.css",
-    "static/js/main.333f67af.js"
+    "static/js/main.c1c6c1c7.js"
   ]
 }
