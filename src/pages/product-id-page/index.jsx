@@ -15,7 +15,8 @@ function ProductIdPage() {
     getProducts().then(products => {
       const prod = products.find(p => p.id == id)
       setProduct(prod);
-      setActiveImage(prod.images[0])
+      setActiveImage(prod.images[0]);
+      document.title = prod.title;
     })
   }, []);
 

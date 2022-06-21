@@ -11,7 +11,9 @@ export const TitlePage = () => {
   const [products, setProducts] = useState(null);
 
   useEffect(() => {
-    getProducts().then(productsPage => setProducts(productsPage))
+    getProducts().then(productsPage => setProducts(productsPage));
+
+    document.title = 'Металошукачі ClonePI AVR, Pirat від виробника';
   }, [])
 
   return (
